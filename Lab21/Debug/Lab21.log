@@ -1,0 +1,4 @@
+﻿  Lab21.cpp
+C:\Users\val17\source\repos\Lab21\Lab21\Lab21.cpp(147,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\val17\source\repos\Lab21\Lab21\Lab21.cpp(147,12): warning C4101: k: неиспользованная локальная переменная
+  Lab21.vcxproj -> C:\Users\val17\source\repos\Lab21\Debug\Lab21.exe
